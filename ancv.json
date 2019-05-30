@@ -1,0 +1,5798 @@
+[
+	{
+		"nid": 1276994,
+		"longitude": "-2.0266072",
+		"latitude": "48.6466316",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398360,
+		"longitude": "-2.026186",
+		"latitude": "48.6486808",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1260298,
+		"longitude": "-2.0262826",
+		"latitude": "48.6464627",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1275672,
+		"longitude": "-1.7691514",
+		"latitude": "48.5731482",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345254,
+		"longitude": "-2.026297",
+		"latitude": "48.6489943",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1341020,
+		"longitude": "-2.0255639",
+		"latitude": "48.64858",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335717,
+		"longitude": "-1.8913936",
+		"latitude": "48.2156779",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1400882,
+		"longitude": "-1.3652685",
+		"latitude": "48.411693",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1434005,
+		"longitude": "-1.2085727459996",
+		"latitude": "48.354754912",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1281853,
+		"longitude": "-1.8513597",
+		"latitude": "48.6199294",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1359148,
+		"longitude": "-1.7522472",
+		"latitude": "48.4085813",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1237142,
+		"longitude": "-2.0980906815165",
+		"latitude": "48.001969739108",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1404791,
+		"longitude": "-1.6842019",
+		"latitude": "48.1084342",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1390854,
+		"longitude": "-2.0232527586705",
+		"latitude": "48.650129863726",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1444418,
+		"longitude": "-1.8529128709995",
+		"latitude": "48.671212204",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355630,
+		"longitude": "-2.0247582",
+		"latitude": "48.6490095",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1379573,
+		"longitude": "-1.6612733294477",
+		"latitude": "48.042662647239",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1337268,
+		"longitude": "-1.5353005",
+		"latitude": "48.3159886",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1262601,
+		"longitude": "-1.7029495",
+		"latitude": "48.0415368",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398972,
+		"longitude": "-1.8018085860407",
+		"latitude": "48.296786175688",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466721,
+		"longitude": "-1.4965606573663",
+		"latitude": "47.960307157366",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1315429,
+		"longitude": "-2.0241712",
+		"latitude": "48.6486003",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1222915,
+		"longitude": "-2.200252143632",
+		"latitude": "48.194162528998",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1239757,
+		"longitude": "-1.2145262",
+		"latitude": "48.1236016",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1295543,
+		"longitude": "-1.2317915",
+		"latitude": "47.9421415",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1342225,
+		"longitude": "-1.2317915",
+		"latitude": "47.9421415",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463242,
+		"longitude": "-1.6800789714064",
+		"latitude": "48.114148913959",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340195,
+		"longitude": "-1.8864934",
+		"latitude": "47.8668158",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1411876,
+		"longitude": "-1.9029851",
+		"latitude": "48.3979574",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1253508,
+		"longitude": "-1.7961568",
+		"latitude": "47.967753",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335873,
+		"longitude": "-2.0249905",
+		"latitude": "48.6479801",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1454946,
+		"longitude": "-1.5090235219996",
+		"latitude": "48.213797188",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284621,
+		"longitude": "-1.945796888424",
+		"latitude": "48.180362175688",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1221004,
+		"longitude": "-1.6779773",
+		"latitude": "48.1149316",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1220494,
+		"longitude": "-1.498324",
+		"latitude": "47.9599147",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1344650,
+		"longitude": "-1.2032789",
+		"latitude": "48.3547688",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1228469,
+		"longitude": "-2.0255136494604",
+		"latitude": "48.648561097697",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1254223,
+		"longitude": "-1.6745755",
+		"latitude": "48.1074052",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1401776,
+		"longitude": "-1.6852971145118",
+		"latitude": "48.136613012473",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1500714,
+		"longitude": "-1.5119231093701",
+		"latitude": "48.040441399148",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1209673,
+		"longitude": "-2.0341456589996",
+		"latitude": "48.619210701",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_B.png"
+	},
+	{
+		"nid": 1280760,
+		"longitude": "-1.7388237886491",
+		"latitude": "47.928803427145",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1277888,
+		"longitude": "-1.7029390335853",
+		"latitude": "48.115195889809",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1274633,
+		"longitude": "-1.683146",
+		"latitude": "48.153561",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1462430,
+		"longitude": "-2.0547219970858",
+		"latitude": "48.634077048849",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466358,
+		"longitude": "-1.7964789358878",
+		"latitude": "47.967162684431",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1268816,
+		"longitude": "-2.0237568967097",
+		"latitude": "48.649487437352",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1436035,
+		"longitude": "-1.1227359069996",
+		"latitude": "48.481497288",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1320027,
+		"longitude": "-1.9480112",
+		"latitude": "47.8081609",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1379379,
+		"longitude": "-2.192985",
+		"latitude": "48.189812",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1471816,
+		"longitude": "-2.178175",
+		"latitude": "48.217605",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1306434,
+		"longitude": "-1.6842786",
+		"latitude": "48.1117357",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1406565,
+		"longitude": "-1.6808471827573",
+		"latitude": "48.113692407438",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1423425,
+		"longitude": "-2.0248411",
+		"latitude": "48.6490271",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298844,
+		"longitude": "-1.7029495",
+		"latitude": "48.0415368",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1292657,
+		"longitude": "-1.3654044168734",
+		"latitude": "48.411225356368",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1289000,
+		"longitude": "-2.0245543",
+		"latitude": "48.6487771",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463250,
+		"longitude": "-2.0331700094351",
+		"latitude": "48.604901783513",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303105,
+		"longitude": "-2.0268882",
+		"latitude": "48.6480738",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1451377,
+		"longitude": "-2.0083335829996",
+		"latitude": "48.647538836",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1534069,
+		"longitude": "-1.676192269779",
+		"latitude": "48.108297384125",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1525614,
+		"longitude": "-1.9844297359999",
+		"latitude": "48.64265",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1492377,
+		"longitude": "-1.639913950603",
+		"latitude": "48.174934557591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1439332,
+		"longitude": "-2.0347689749996",
+		"latitude": "48.604178294",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392167,
+		"longitude": "-1.4978653",
+		"latitude": "48.0397932",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_A.png"
+	},
+	{
+		"nid": 1290618,
+		"longitude": "-1.6799048016908",
+		"latitude": "47.842495711351",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1408392,
+		"longitude": "-1.1801625",
+		"latitude": "48.3459139",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1468954,
+		"longitude": "-1.9902731122685",
+		"latitude": "48.648720489036",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1511626,
+		"longitude": "-1.6811516575105",
+		"latitude": "48.09134180322",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1268173,
+		"longitude": "-1.6747367",
+		"latitude": "48.0475378",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1420568,
+		"longitude": "-2.0238093",
+		"latitude": "48.6495229",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1443155,
+		"longitude": "-2.0559394699996",
+		"latitude": "48.625967097",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1318247,
+		"longitude": "-1.6434990421836",
+		"latitude": "48.09170062003",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1471954,
+		"longitude": "-1.6691293222933",
+		"latitude": "48.122734344729",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286954,
+		"longitude": "-2.0258534",
+		"latitude": "48.6478473",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1293183,
+		"longitude": "-1.2903177724016",
+		"latitude": "48.299914253764",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1272286,
+		"longitude": "-1.8184775137342",
+		"latitude": "47.821713307519",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1227703,
+		"longitude": "-2.0273778856541",
+		"latitude": "48.64894277656",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1287987,
+		"longitude": "-2.0107513099996",
+		"latitude": "48.653673131",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314990,
+		"longitude": "-1.1857181",
+		"latitude": "48.34648",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1387289,
+		"longitude": "-1.68298",
+		"latitude": "48.199103",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1209153,
+		"longitude": "-2.0046923746898",
+		"latitude": "48.655621917018",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1272357,
+		"longitude": "-1.7754059650297",
+		"latitude": "48.603092175688",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1238084,
+		"longitude": "-2.0217826",
+		"latitude": "48.6359269",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1338722,
+		"longitude": "-1.8567682435512",
+		"latitude": "48.669934473772",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219812,
+		"longitude": "-1.8401553369996",
+		"latitude": "48.486260905001",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319045,
+		"longitude": "-1.7963445",
+		"latitude": "47.967599",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271829,
+		"longitude": "-1.8913062",
+		"latitude": "48.2158516",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1294784,
+		"longitude": "-1.7379198",
+		"latitude": "47.9287474",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1443082,
+		"longitude": "-1.1854101939996",
+		"latitude": "48.353594023",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1469062,
+		"longitude": "-1.7287872217669",
+		"latitude": "48.106933394974",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1414256,
+		"longitude": "-1.5840142",
+		"latitude": "48.1159648",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1502689,
+		"longitude": "-1.7238219050725",
+		"latitude": "48.106661228144",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1511103,
+		"longitude": "-1.6707026008756",
+		"latitude": "47.934329697373",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_B.png"
+	},
+	{
+		"nid": 1400543,
+		"longitude": "-1.6752688",
+		"latitude": "48.105688",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1422055,
+		"longitude": "-1.6870553",
+		"latitude": "48.1373438",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1448702,
+		"longitude": "-1.6846493639996",
+		"latitude": "48.112425715",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1317215,
+		"longitude": "-1.774316",
+		"latitude": "48.601992",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1301302,
+		"longitude": "-1.7114352",
+		"latitude": "48.047301",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1291963,
+		"longitude": "-2.0675851552888",
+		"latitude": "48.267707605603",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1316545,
+		"longitude": "-2.0529049283144",
+		"latitude": "48.635516428914",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1299173,
+		"longitude": "-2.052947",
+		"latitude": "48.6356031",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1372001,
+		"longitude": "-1.6737002864274",
+		"latitude": "48.106929656674",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466642,
+		"longitude": "-1.8609511378037",
+		"latitude": "47.91951556342",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1421602,
+		"longitude": "-2.113267",
+		"latitude": "48.6394186",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296215,
+		"longitude": "-2.11042730322",
+		"latitude": "48.636894656674",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1452245,
+		"longitude": "-2.1904399019996",
+		"latitude": "48.188553689",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1455906,
+		"longitude": "-2.0241737669996",
+		"latitude": "48.648575861",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326425,
+		"longitude": "-1.193324",
+		"latitude": "48.13843",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1451177,
+		"longitude": "-1.6855692659996",
+		"latitude": "48.111495535",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1437187,
+		"longitude": "-1.7102113329996",
+		"latitude": "48.047407624",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294512,
+		"longitude": "-1.794484561198",
+		"latitude": "48.09974864141",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290649,
+		"longitude": "-1.3043160324601",
+		"latitude": "48.177514488199",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1251807,
+		"longitude": "-1.38029",
+		"latitude": "48.034745",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326570,
+		"longitude": "-1.2038491733222",
+		"latitude": "48.35355801887",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1207329,
+		"longitude": "-1.308079281448",
+		"latitude": "48.469213311312",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1342904,
+		"longitude": "-1.7882917",
+		"latitude": "48.1487355",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1459416,
+		"longitude": "-1.6557081359996",
+		"latitude": "48.587583065001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1500088,
+		"longitude": "-2.0247928734491",
+		"latitude": "48.636804697761",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1288700,
+		"longitude": "-1.8260570430204",
+		"latitude": "48.610317572855",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1465878,
+		"longitude": "-1.8766096472101",
+		"latitude": "48.373476966703",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1507020,
+		"longitude": "-1.3977228193202",
+		"latitude": "48.260709",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1487550,
+		"longitude": "-2.0851226418717",
+		"latitude": "47.650337810174",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314440,
+		"longitude": "-1.85029",
+		"latitude": "48.071584",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1309147,
+		"longitude": "-1.6757247",
+		"latitude": "48.1118962",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1427891,
+		"longitude": "-1.9815769",
+		"latitude": "48.6319149",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302839,
+		"longitude": "-2.0856448",
+		"latitude": "47.6487725",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1311894,
+		"longitude": "-1.6324399",
+		"latitude": "48.0935078",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1438155,
+		"longitude": "-1.6750608729996",
+		"latitude": "48.086311292",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1312699,
+		"longitude": "-1.7424115",
+		"latitude": "48.1056756",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1436322,
+		"longitude": "-2.0676798959996",
+		"latitude": "48.636119899001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1451140,
+		"longitude": "-1.9479896579996",
+		"latitude": "47.8083124",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1532325,
+		"longitude": "-1.6025599175659",
+		"latitude": "48.046419",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1498742,
+		"longitude": "-1.7339888681403",
+		"latitude": "47.836530125454",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1316249,
+		"longitude": "-1.7294217",
+		"latitude": "48.1072651",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1492210,
+		"longitude": "-2.0154752915633",
+		"latitude": "48.651807394397",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1502469,
+		"longitude": "-1.6872703374978",
+		"latitude": "48.110177168475",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1448334,
+		"longitude": "-2.0227135229996",
+		"latitude": "48.635197087001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450971,
+		"longitude": "-1.7756913949996",
+		"latitude": "48.001400228",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1308130,
+		"longitude": "-1.6832145",
+		"latitude": "48.1106291",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286955,
+		"longitude": "-1.675965",
+		"latitude": "48.1118461",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1313302,
+		"longitude": "-1.684717",
+		"latitude": "48.1092626",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1505533,
+		"longitude": "-1.3114282813288",
+		"latitude": "48.147162906644",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290567,
+		"longitude": "-1.801030940187",
+		"latitude": "48.60621",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1538105,
+		"longitude": "-1.7920598885683",
+		"latitude": "48.221487859282",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1318282,
+		"longitude": "-1.495291",
+		"latitude": "47.881858",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463121,
+		"longitude": "-1.8583943614885",
+		"latitude": "48.069512524775",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450240,
+		"longitude": "-1.2014167079996",
+		"latitude": "48.123897326",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1435662,
+		"longitude": "-1.8686164179996",
+		"latitude": "48.048602781",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284966,
+		"longitude": "-1.7527430430204",
+		"latitude": "48.407979111576",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1317950,
+		"longitude": "-1.9437893",
+		"latitude": "48.2953713",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1356526,
+		"longitude": "-1.944078",
+		"latitude": "48.2954052",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1536068,
+		"longitude": "-1.6399043114144",
+		"latitude": "48.17492424785",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1309681,
+		"longitude": "-1.75172",
+		"latitude": "48.4087714",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1536739,
+		"longitude": "-2.0050451508454",
+		"latitude": "48.655446108518",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352030,
+		"longitude": "-1.5016949424087",
+		"latitude": "48.048191266721",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347861,
+		"longitude": "-2.0578322",
+		"latitude": "48.6333123",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1342883,
+		"longitude": "-2.1714587864274",
+		"latitude": "48.019139612817",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326202,
+		"longitude": "-1.4983178731606",
+		"latitude": "47.960017292256",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1454486,
+		"longitude": "-1.7904661729996",
+		"latitude": "48.052378802",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1322308,
+		"longitude": "-1.5058986",
+		"latitude": "48.2142119",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1432804,
+		"longitude": "-2.0865042839995",
+		"latitude": "47.649426498",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1430247,
+		"longitude": "-1.8523231",
+		"latitude": "48.6197789",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463219,
+		"longitude": "-1.6788993162618",
+		"latitude": "48.104820671101",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1520997,
+		"longitude": "-2.0231803293035",
+		"latitude": "48.650255454902",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466154,
+		"longitude": "-1.8232480788274",
+		"latitude": "47.822409219545",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1437426,
+		"longitude": "-1.2136074709996",
+		"latitude": "48.123676873",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1458334,
+		"longitude": "-2.1720918749996",
+		"latitude": "48.016182715",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450746,
+		"longitude": "-1.8217301029999",
+		"latitude": "48.068305",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284380,
+		"longitude": "-1.8631714",
+		"latitude": "48.630344",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1283810,
+		"longitude": "-1.9743903619613",
+		"latitude": "48.570516156464",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1470257,
+		"longitude": "-1.6430876611172",
+		"latitude": "48.093681656674",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284389,
+		"longitude": "-1.610494",
+		"latitude": "48.078076",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1460087,
+		"longitude": "-1.2146021239996",
+		"latitude": "48.123610633",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290325,
+		"longitude": "-1.2120389",
+		"latitude": "48.1231176",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1456029,
+		"longitude": "-1.8528967189995",
+		"latitude": "48.620914746",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1402686,
+		"longitude": "-1.9374371421716",
+		"latitude": "48.687433123953",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1333508,
+		"longitude": "-1.4863216588955",
+		"latitude": "48.461451485429",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1534871,
+		"longitude": "-1.6804910019332",
+		"latitude": "47.842161130158",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1312055,
+		"longitude": "-1.682577864418",
+		"latitude": "48.113590222315",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1253573,
+		"longitude": "-1.1963210553696",
+		"latitude": "48.352945809048",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1501787,
+		"longitude": "-1.6286407440995",
+		"latitude": "48.105192279214",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286233,
+		"longitude": "-2.0687616",
+		"latitude": "48.6180051",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1521502,
+		"longitude": "-1.9438204869583",
+		"latitude": "48.295011865947",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1222297,
+		"longitude": "-1.8648049999999",
+		"latitude": "48.678705758",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1277652,
+		"longitude": "-2.03436",
+		"latitude": "48.606702",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302665,
+		"longitude": "-2.0555362",
+		"latitude": "48.6274469",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1502132,
+		"longitude": "-1.8563695248427",
+		"latitude": "48.670168557591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1324135,
+		"longitude": "-1.9842214869583",
+		"latitude": "48.657999185123",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1310622,
+		"longitude": "-2.0493604",
+		"latitude": "48.2011964",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1464659,
+		"longitude": "-1.8485345430203",
+		"latitude": "48.526769263114",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1312213,
+		"longitude": "-1.3787832",
+		"latitude": "47.9133804",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1318919,
+		"longitude": "-1.6788701",
+		"latitude": "48.1080883",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294933,
+		"longitude": "-1.6758644562871",
+		"latitude": "48.111899427145",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1473977,
+		"longitude": "-2.0131205867332",
+		"latitude": "48.633818249235",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1443622,
+		"longitude": "-1.6208077639996",
+		"latitude": "48.088399058001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1461566,
+		"longitude": "-2.0266787509996",
+		"latitude": "47.799327325",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1502128,
+		"longitude": "-2.0233742586705",
+		"latitude": "48.649950754371",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1429249,
+		"longitude": "-1.7548255",
+		"latitude": "48.5496938",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1524996,
+		"longitude": "-2.0473671427953",
+		"latitude": "48.199658867332",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466737,
+		"longitude": "-1.7746540573029",
+		"latitude": "48.080597289774",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1453847,
+		"longitude": "-1.6802541339996",
+		"latitude": "47.854132585",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1327534,
+		"longitude": "-2.0243107821282",
+		"latitude": "48.649079849847",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1425869,
+		"longitude": "-2.0248411",
+		"latitude": "48.6490271",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1495796,
+		"longitude": "-1.9888289834958",
+		"latitude": "48.662747800998",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1542387,
+		"longitude": "-1.9188318274948",
+		"latitude": "48.178558472649",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345221,
+		"longitude": "-1.9679304497663",
+		"latitude": "48.68150140161",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1299729,
+		"longitude": "-1.8996402310578",
+		"latitude": "48.604874427145",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1531077,
+		"longitude": "-1.3220260511553",
+		"latitude": "47.821704654966",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463349,
+		"longitude": "-2.0190174410237",
+		"latitude": "48.637717752986",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296981,
+		"longitude": "-2.0572757",
+		"latitude": "48.6312213",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1522618,
+		"longitude": "-1.9502116290611",
+		"latitude": "48.24981036664",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1310995,
+		"longitude": "-1.6360533",
+		"latitude": "48.103843",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1316676,
+		"longitude": "-1.5056457",
+		"latitude": "48.0501123",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294363,
+		"longitude": "-1.8455105",
+		"latitude": "48.0065081",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1458286,
+		"longitude": "-1.9036713799996",
+		"latitude": "48.637332023",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1400555,
+		"longitude": "-2.0237902595072",
+		"latitude": "48.649196210658",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1510490,
+		"longitude": "-1.9963476201743",
+		"latitude": "48.657322729384",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1459786,
+		"longitude": "-1.6855393489996",
+		"latitude": "48.111785528",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1293314,
+		"longitude": "-1.7895545",
+		"latitude": "48.2207838",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1301300,
+		"longitude": "-1.4051418054417",
+		"latitude": "48.108515647239",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1531048,
+		"longitude": "-1.2004542135726",
+		"latitude": "48.355164733279",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298719,
+		"longitude": "-1.6759793973108",
+		"latitude": "48.108398050234",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1259558,
+		"longitude": "-1.6757187",
+		"latitude": "48.1118719",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463001,
+		"longitude": "-1.6808398694097",
+		"latitude": "48.115705557591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1519428,
+		"longitude": "-1.6780800750765",
+		"latitude": "48.11496235054",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1438134,
+		"longitude": "-1.8542226109996",
+		"latitude": "48.671157325",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1505714,
+		"longitude": "-2.0228545531479",
+		"latitude": "48.63522914294",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290147,
+		"longitude": "-1.7560607113509",
+		"latitude": "48.549521514571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1321571,
+		"longitude": "-1.2113953",
+		"latitude": "48.1227323",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1306574,
+		"longitude": "-1.681011",
+		"latitude": "48.10981954732",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297106,
+		"longitude": "-2.0563491",
+		"latitude": "48.6343495",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319565,
+		"longitude": "-2.083373",
+		"latitude": "47.6549806",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1420535,
+		"longitude": "-2.0250149",
+		"latitude": "48.6480729",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1449970,
+		"longitude": "-2.0603751039995",
+		"latitude": "48.579817891",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1536420,
+		"longitude": "-1.6808841407179",
+		"latitude": "48.116789077991",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1428995,
+		"longitude": "-1.599805",
+		"latitude": "48.1141275",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1285089,
+		"longitude": "-1.6744969",
+		"latitude": "48.1038791",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297339,
+		"longitude": "-2.0231638",
+		"latitude": "48.6502506",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1427082,
+		"longitude": "-1.204626",
+		"latitude": "48.3515609",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297111,
+		"longitude": "-1.5034776",
+		"latitude": "48.4674651",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1318477,
+		"longitude": "-1.6790865",
+		"latitude": "48.1141544",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1533320,
+		"longitude": "-1.9622089097625",
+		"latitude": "47.808129687863",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294441,
+		"longitude": "-1.6785453",
+		"latitude": "48.1105421",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303067,
+		"longitude": "-2.9326435",
+		"latitude": "48.2020471",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1446009,
+		"longitude": "-2.0259544709996",
+		"latitude": "48.646682647",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1452922,
+		"longitude": "-1.8460031439996",
+		"latitude": "48.073955936",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1325554,
+		"longitude": "-1.6432539",
+		"latitude": "48.0980248",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1527662,
+		"longitude": "-2.1339600549656",
+		"latitude": "48.623085503462",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1421048,
+		"longitude": "-1.6942603",
+		"latitude": "48.1068653",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296756,
+		"longitude": "-1.7143735833298",
+		"latitude": "48.530873852381",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1325822,
+		"longitude": "-2.0240397",
+		"latitude": "48.6483291",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286045,
+		"longitude": "-1.6733607634023",
+		"latitude": "48.107152330833",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1531751,
+		"longitude": "-1.6578412811472",
+		"latitude": "48.124493811818",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1474911,
+		"longitude": "-1.9573413419412",
+		"latitude": "48.139713",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319799,
+		"longitude": "-1.6778055",
+		"latitude": "48.1093711",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1507442,
+		"longitude": "-2.0265834122776",
+		"latitude": "48.648217475178",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1403918,
+		"longitude": "-1.6336457",
+		"latitude": "48.1305944",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1424030,
+		"longitude": "-2.024579",
+		"latitude": "48.6505605",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349557,
+		"longitude": "-1.6812777526978",
+		"latitude": "48.113035753535",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1442165,
+		"longitude": "-1.6714282509996",
+		"latitude": "48.10491251",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1501623,
+		"longitude": "-2.0238808148768",
+		"latitude": "48.649777019707",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1441693,
+		"longitude": "-2.1079149469996",
+		"latitude": "48.636482601",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1445401,
+		"longitude": "-1.8550247119996",
+		"latitude": "48.675454457",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1400396,
+		"longitude": "-1.6784097",
+		"latitude": "48.111048",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1453667,
+		"longitude": "-1.6802526609996",
+		"latitude": "48.11161917",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1301987,
+		"longitude": "-2.0190871961279",
+		"latitude": "48.637598174453",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1460314,
+		"longitude": "-2.1075968009995",
+		"latitude": "48.633622233",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1538491,
+		"longitude": "-1.3181202278838",
+		"latitude": "47.831000102689",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1462795,
+		"longitude": "-1.708974",
+		"latitude": "48.121440485429",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302188,
+		"longitude": "-1.6770364",
+		"latitude": "48.1086413",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1444360,
+		"longitude": "-1.7522918929996",
+		"latitude": "48.408553577",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1460592,
+		"longitude": "-1.5253454869996",
+		"latitude": "48.114952151",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1386294,
+		"longitude": "-2.0533327259996",
+		"latitude": "48.635152987",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1443764,
+		"longitude": "-1.7532299649995",
+		"latitude": "48.407365890001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466189,
+		"longitude": "-1.6810724074384",
+		"latitude": "48.110888536211",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1439104,
+		"longitude": "-1.7549528539996",
+		"latitude": "48.550592535",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1445840,
+		"longitude": "-1.6823126559996",
+		"latitude": "48.111744475",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1412566,
+		"longitude": "-2.02538",
+		"latitude": "48.6488471",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1500308,
+		"longitude": "-1.7382030401062",
+		"latitude": "47.928814376075",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1442198,
+		"longitude": "-2.0243569039995",
+		"latitude": "48.650444854",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1471343,
+		"longitude": "-1.6194354621155",
+		"latitude": "48.088509150153",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319660,
+		"longitude": "-1.4291555",
+		"latitude": "48.009094",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1446465,
+		"longitude": "-2.1108547049996",
+		"latitude": "48.636972652001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1467851,
+		"longitude": "-1.7149887762998",
+		"latitude": "48.107829226759",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1510205,
+		"longitude": "-1.7520718935599",
+		"latitude": "48.550935268942",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290994,
+		"longitude": "-1.6737422364821",
+		"latitude": "48.108608916181",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1542512,
+		"longitude": "-1.6820257529999",
+		"latitude": "47.839195",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1414314,
+		"longitude": "-1.7128875",
+		"latitude": "48.1075474",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1538462,
+		"longitude": "-1.7275900551088",
+		"latitude": "48.2008000717",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1499308,
+		"longitude": "-1.743499010416",
+		"latitude": "48.105856710486",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1445345,
+		"longitude": "-1.8142863479996",
+		"latitude": "48.543632519",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1453534,
+		"longitude": "-1.6766244829996",
+		"latitude": "48.114905017",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297492,
+		"longitude": "-2.0235486062958",
+		"latitude": "48.635313442149",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351304,
+		"longitude": "-1.8190325167926",
+		"latitude": "48.531489789342",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1265824,
+		"longitude": "-1.597684",
+		"latitude": "48.593656",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1324604,
+		"longitude": "-1.6768831",
+		"latitude": "48.0836943",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1447573,
+		"longitude": "-1.1673798989996",
+		"latitude": "48.077274936",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1447522,
+		"longitude": "-1.6896062259996",
+		"latitude": "48.109667111",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1419587,
+		"longitude": "-1.4317745257929",
+		"latitude": "48.434184925122",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1322419,
+		"longitude": "-1.6728041426511",
+		"latitude": "48.105467779907",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296013,
+		"longitude": "-1.4975801",
+		"latitude": "47.9606811",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300077,
+		"longitude": "-1.5470802",
+		"latitude": "48.0416974",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1463187,
+		"longitude": "-2.1207522572855",
+		"latitude": "48.634086101304",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1384797,
+		"longitude": "-1.4835717067919",
+		"latitude": "48.461565487391",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1471153,
+		"longitude": "-1.6819399744647",
+		"latitude": "48.10876",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1536134,
+		"longitude": "-1.6908645174851",
+		"latitude": "48.105132915344",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1285948,
+		"longitude": "-1.8120878",
+		"latitude": "48.4116139",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1516958,
+		"longitude": "-1.6773126335045",
+		"latitude": "48.114765031364",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314100,
+		"longitude": "-1.217228",
+		"latitude": "48.366141",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1460495,
+		"longitude": "-1.5339432519996",
+		"latitude": "47.971791546",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1516201,
+		"longitude": "-1.6717485123492",
+		"latitude": "48.103727605603",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1531584,
+		"longitude": "-2.0066411147139",
+		"latitude": "48.647400735269",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340470,
+		"longitude": "-1.59797",
+		"latitude": "48.59395",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1438430,
+		"longitude": "-1.6733144909996",
+		"latitude": "48.108817137",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1470632,
+		"longitude": "-1.9956062663736",
+		"latitude": "48.624523830148",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1471149,
+		"longitude": "-2.0854578928675",
+		"latitude": "47.650682766028",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1469867,
+		"longitude": "-1.6859144650297",
+		"latitude": "48.133436343326",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1458442,
+		"longitude": "-2.0067084769996",
+		"latitude": "48.64756217",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1470191,
+		"longitude": "-1.6876073345836",
+		"latitude": "48.110106226759",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1442580,
+		"longitude": "-1.9438390869996",
+		"latitude": "48.295016713001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1451077,
+		"longitude": "-1.1933765599996",
+		"latitude": "48.122917223",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1396419,
+		"longitude": "-1.6339646683306",
+		"latitude": "48.132203123233",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297896,
+		"longitude": "-1.7487992355012",
+		"latitude": "48.410728324168",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1358823,
+		"longitude": "-2.1018527758922",
+		"latitude": "47.989216293737",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1471765,
+		"longitude": "-1.6790461552888",
+		"latitude": "48.114420580068",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1458668,
+		"longitude": "-1.7518622259996",
+		"latitude": "48.21836366",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340189,
+		"longitude": "-1.6741518",
+		"latitude": "48.0872106",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1435711,
+		"longitude": "-1.6736798579996",
+		"latitude": "48.087892991001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1446460,
+		"longitude": "-1.6799484449996",
+		"latitude": "48.085059850001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1402151,
+		"longitude": "-2.0261198",
+		"latitude": "48.6358518",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302367,
+		"longitude": "-1.5112127",
+		"latitude": "48.0531781",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1265775,
+		"longitude": "-1.4025475",
+		"latitude": "48.1089348",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1436529,
+		"longitude": "-1.6620370649996",
+		"latitude": "48.122093863",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1253951,
+		"longitude": "-2.0963864",
+		"latitude": "48.0026771",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373092,
+		"longitude": "-1.2094328",
+		"latitude": "48.3622187",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338964,
+		"longitude": "-2.0527324474003",
+		"latitude": "48.634973413267",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1275683,
+		"longitude": "-1.6810663",
+		"latitude": "48.1125948",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1330845,
+		"longitude": "-1.8607377",
+		"latitude": "47.9196071",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392571,
+		"longitude": "-1.6769452",
+		"latitude": "48.108628",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219662,
+		"longitude": "-1.6525963874431",
+		"latitude": "48.127124598938",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1274879,
+		"longitude": "-1.7522333",
+		"latitude": "48.4086291",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1232652,
+		"longitude": "-1.9751733599746",
+		"latitude": "48.66298235582",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1378125,
+		"longitude": "-1.8484477",
+		"latitude": "48.5267811",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1249102,
+		"longitude": "-2.0241966",
+		"latitude": "48.6482129",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1310512,
+		"longitude": "-1.1523448",
+		"latitude": "48.0588812",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1203364,
+		"longitude": "-1.6802919533729",
+		"latitude": "47.843084514571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1408216,
+		"longitude": "-1.977386",
+		"latitude": "48.603308",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1221538,
+		"longitude": "-1.2128386143373",
+		"latitude": "48.124711412109",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345688,
+		"longitude": "-1.8173777",
+		"latitude": "47.8222299",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261826,
+		"longitude": "-1.6022595",
+		"latitude": "48.0480042",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1378739,
+		"longitude": "-1.7500469876507",
+		"latitude": "48.551781394397",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1260905,
+		"longitude": "-1.8685616",
+		"latitude": "48.0487091",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353215,
+		"longitude": "-1.681409",
+		"latitude": "48.1127934",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1236057,
+		"longitude": "-1.2027798",
+		"latitude": "48.3547992",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1224250,
+		"longitude": "-2.0234912586705",
+		"latitude": "48.649760863726",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1277270,
+		"longitude": "-1.9540168",
+		"latitude": "48.1377721",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261478,
+		"longitude": "-1.5024955",
+		"latitude": "48.048068",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219600,
+		"longitude": "-1.8623032857349",
+		"latitude": "48.668250478216",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1218506,
+		"longitude": "-1.8024515568988",
+		"latitude": "48.29600904302",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329522,
+		"longitude": "-1.8296446007559",
+		"latitude": "48.154480658895",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1260079,
+		"longitude": "-1.6764707",
+		"latitude": "48.1117929",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1318722,
+		"longitude": "-1.5890199999999",
+		"latitude": "48.11244",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1278714,
+		"longitude": "-1.4081110407987",
+		"latitude": "48.10544554732",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398561,
+		"longitude": "-1.4987702",
+		"latitude": "47.9593015",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257929,
+		"longitude": "-2.0854708",
+		"latitude": "47.650713",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1375258,
+		"longitude": "-1.2013206",
+		"latitude": "48.3548842",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1337623,
+		"longitude": "-1.7027995",
+		"latitude": "48.2130047",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1220215,
+		"longitude": "-1.5917549999999",
+		"latitude": "48.4006",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345168,
+		"longitude": "-2.064226350558",
+		"latitude": "48.166627350558",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1235657,
+		"longitude": "-2.0535051",
+		"latitude": "48.635118",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1290679,
+		"longitude": "-1.2325708",
+		"latitude": "47.9427393",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1263140,
+		"longitude": "-1.6620771846837",
+		"latitude": "48.042581111487",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1424041,
+		"longitude": "-1.6731757",
+		"latitude": "48.104532",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1441429,
+		"longitude": "-2.0728331839996",
+		"latitude": "47.659728693",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1466408,
+		"longitude": "-1.6825999602175",
+		"latitude": "48.082519234565",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1391670,
+		"longitude": "-1.6814542",
+		"latitude": "48.1050009",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1416266,
+		"longitude": "-1.6926262816627",
+		"latitude": "48.136069586851",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1416267,
+		"longitude": "-1.6802171",
+		"latitude": "48.109829",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1278618,
+		"longitude": "-1.1854127514571",
+		"latitude": "48.353590078279",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1422469,
+		"longitude": "-1.4416635",
+		"latitude": "48.4626099",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1383569,
+		"longitude": "-1.732943",
+		"latitude": "47.836846",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1383451,
+		"longitude": "-1.6805368",
+		"latitude": "48.1092942",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1382619,
+		"longitude": "-2.0246056923366",
+		"latitude": "48.649885040799",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1357824,
+		"longitude": "-1.6846944",
+		"latitude": "48.1095082",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349895,
+		"longitude": "-1.802047",
+		"latitude": "48.295423",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1281160,
+		"longitude": "-1.846006",
+		"latitude": "47.739593",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1310337,
+		"longitude": "-2.0192675",
+		"latitude": "48.6375085",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1378664,
+		"longitude": "-2.0645214",
+		"latitude": "48.6306869",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389847,
+		"longitude": "-1.6467625217843",
+		"latitude": "48.128604999163",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1460326,
+		"longitude": "-1.6928631419996",
+		"latitude": "48.133305031",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373432,
+		"longitude": "-1.855893",
+		"latitude": "48.6706893",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1211995,
+		"longitude": "-1.2892414",
+		"latitude": "48.009929",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345368,
+		"longitude": "-1.6808815896474",
+		"latitude": "48.116627863726",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1267541,
+		"longitude": "-1.6343277",
+		"latitude": "48.0952686",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319683,
+		"longitude": "-1.6347334",
+		"latitude": "48.0951623",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1377590,
+		"longitude": "-1.986336",
+		"latitude": "48.609901",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261678,
+		"longitude": "-1.6766867",
+		"latitude": "48.1085148",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1227262,
+		"longitude": "-1.7519146029996",
+		"latitude": "48.217556542",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1540024,
+		"longitude": "-2.0235099999999",
+		"latitude": "48.6446",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1238083,
+		"longitude": "-1.8296446629349",
+		"latitude": "48.154149",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1377965,
+		"longitude": "-1.8443719",
+		"latitude": "48.588393",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350224,
+		"longitude": "-1.1524869476888",
+		"latitude": "48.41390216986",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1281298,
+		"longitude": "-1.5744867",
+		"latitude": "48.4250407",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392712,
+		"longitude": "-2.0248705109643",
+		"latitude": "48.648498087426",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1239475,
+		"longitude": "-1.6330275250968",
+		"latitude": "48.131081353783",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1374892,
+		"longitude": "-1.6813592710197",
+		"latitude": "48.112888746321",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1386250,
+		"longitude": "-1.96811",
+		"latitude": "48.5367687",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1406858,
+		"longitude": "-1.8508437",
+		"latitude": "48.6765422",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347535,
+		"longitude": "-2.0177472",
+		"latitude": "48.6394649",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1210783,
+		"longitude": "-1.7734708914825",
+		"latitude": "48.147855830977",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1395445,
+		"longitude": "-1.6210273513763",
+		"latitude": "48.087799794622",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1348265,
+		"longitude": "-1.6821536122684",
+		"latitude": "48.111039565641",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1225144,
+		"longitude": "-1.85355",
+		"latitude": "48.671195510964",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271969,
+		"longitude": "-1.193324",
+		"latitude": "48.13843",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329736,
+		"longitude": "-1.7065412",
+		"latitude": "48.1546078",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1253862,
+		"longitude": "-2.0182727",
+		"latitude": "48.6399655",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1299834,
+		"longitude": "-1.2102683",
+		"latitude": "48.1093631",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271037,
+		"longitude": "-1.6787485",
+		"latitude": "48.1048487",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1395240,
+		"longitude": "-1.2016616",
+		"latitude": "48.3536694",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329325,
+		"longitude": "-1.7681536",
+		"latitude": "48.1411656",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1210107,
+		"longitude": "-1.5887375",
+		"latitude": "48.1128589",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1209948,
+		"longitude": "-1.7298154",
+		"latitude": "48.2049132",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1209967,
+		"longitude": "-1.1797191",
+		"latitude": "48.3460875",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1209975,
+		"longitude": "-2.0676339",
+		"latitude": "47.6718451",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1209993,
+		"longitude": "-2.0638185",
+		"latitude": "48.6174663",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1446516,
+		"longitude": "-1.9914459199996",
+		"latitude": "48.624245804001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1227650,
+		"longitude": "-1.6724003366611",
+		"latitude": "48.104580530671",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1315267,
+		"longitude": "-2.0239566",
+		"latitude": "48.649068",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1405395,
+		"longitude": "-1.8685866",
+		"latitude": "48.6789386",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1465272,
+		"longitude": "-1.864805",
+		"latitude": "48.678705758197",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1497433,
+		"longitude": "-1.8493359445148",
+		"latitude": "48.618676646114",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1273054,
+		"longitude": "-2.0082164",
+		"latitude": "48.6308952",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1354344,
+		"longitude": "-1.414259",
+		"latitude": "48.104509",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298448,
+		"longitude": "-1.6809153316694",
+		"latitude": "48.113703701916",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1288676,
+		"longitude": "-1.6817102",
+		"latitude": "48.1143635",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1276066,
+		"longitude": "-2.0562148",
+		"latitude": "48.6333822",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1305769,
+		"longitude": "-1.8561416",
+		"latitude": "48.6705785",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351521,
+		"longitude": "-1.6829622398003",
+		"latitude": "48.111126485429",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1328268,
+		"longitude": "-1.6831164",
+		"latitude": "48.1111056",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1498343,
+		"longitude": "-1.6830898848174",
+		"latitude": "48.111029245629",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352013,
+		"longitude": "-2.0557165695365",
+		"latitude": "48.634664206503",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1363697,
+		"longitude": "-1.6654261",
+		"latitude": "48.0906507",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373042,
+		"longitude": "-2.0051933",
+		"latitude": "48.6553579",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1333535,
+		"longitude": "-1.8648049999999",
+		"latitude": "48.678705758",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398310,
+		"longitude": "-1.6809038",
+		"latitude": "48.1137274",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1408044,
+		"longitude": "-1.6356014686364",
+		"latitude": "48.096745554533",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392440,
+		"longitude": "-1.8553212",
+		"latitude": "48.6705623",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1447706,
+		"longitude": "-1.6908629239996",
+		"latitude": "48.105122846",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349957,
+		"longitude": "-1.6296564",
+		"latitude": "48.133926",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1440430,
+		"longitude": "-2.0564314589996",
+		"latitude": "48.633591437",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347182,
+		"longitude": "-2.0191367",
+		"latitude": "48.637481",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1527544,
+		"longitude": "-2.0053716826704",
+		"latitude": "48.628939287235",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1217599,
+		"longitude": "-1.2004542135726",
+		"latitude": "48.355164733279",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233225,
+		"longitude": "-2.173462",
+		"latitude": "48.0186968",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1443675,
+		"longitude": "-1.7497003099996",
+		"latitude": "48.028221464",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1357151,
+		"longitude": "-1.7748347642018",
+		"latitude": "48.60298985333",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1236001,
+		"longitude": "-2.0242521",
+		"latitude": "48.6482449",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1372832,
+		"longitude": "-2.0583444",
+		"latitude": "48.5795872",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1262893,
+		"longitude": "-1.6762735058284",
+		"latitude": "48.114819565641",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1464807,
+		"longitude": "-1.7685980023135",
+		"latitude": "48.139870407571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352961,
+		"longitude": "-1.307321",
+		"latitude": "48.080276",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1215721,
+		"longitude": "-2.0234227220267",
+		"latitude": "48.64985378712",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1223849,
+		"longitude": "-2.0256089",
+		"latitude": "48.648356",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1448997,
+		"longitude": "-2.0531548949996",
+		"latitude": "48.635206946",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1420458,
+		"longitude": "-2.0567901",
+		"latitude": "48.6371646",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284746,
+		"longitude": "-1.2281404",
+		"latitude": "48.352588",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1282245,
+		"longitude": "-1.6404105",
+		"latitude": "48.1816702",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1445135,
+		"longitude": "-1.6403156689996",
+		"latitude": "48.181622643",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1265357,
+		"longitude": "-1.6795451",
+		"latitude": "48.1093286",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1387445,
+		"longitude": "-1.9890355",
+		"latitude": "48.6624265",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355154,
+		"longitude": "-1.9889314",
+		"latitude": "48.662442",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349681,
+		"longitude": "-1.986336",
+		"latitude": "48.609901",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1229576,
+		"longitude": "-1.864231",
+		"latitude": "48.048439",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1455253,
+		"longitude": "-1.8297219609996",
+		"latitude": "48.152950213001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1390317,
+		"longitude": "-1.99089",
+		"latitude": "48.6487281",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1385725,
+		"longitude": "-1.6771784",
+		"latitude": "48.1086266",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353294,
+		"longitude": "-1.6808228592821",
+		"latitude": "48.115998",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349683,
+		"longitude": "-1.6777320333255",
+		"latitude": "48.106119520399",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219998,
+		"longitude": "-1.9893109",
+		"latitude": "48.6630877",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1417161,
+		"longitude": "-1.7074290278608",
+		"latitude": "48.105332606771",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1487861,
+		"longitude": "-1.7961335568988",
+		"latitude": "47.967739878989",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1269384,
+		"longitude": "-2.0535883",
+		"latitude": "48.6349243",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392511,
+		"longitude": "-1.971003",
+		"latitude": "48.6019997",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1359336,
+		"longitude": "-1.5759504",
+		"latitude": "48.1166293",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1359205,
+		"longitude": "-1.683146",
+		"latitude": "48.153561",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1359247,
+		"longitude": "-1.764857",
+		"latitude": "48.1379914",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1400890,
+		"longitude": "-1.8433146833342",
+		"latitude": "47.789537971695",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1386032,
+		"longitude": "-1.2085512799065",
+		"latitude": "48.120590514571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1402154,
+		"longitude": "-1.212591",
+		"latitude": "48.1244506",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355312,
+		"longitude": "-1.769382",
+		"latitude": "48.0950878",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1337387,
+		"longitude": "-1.7646628",
+		"latitude": "48.1406216",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1227850,
+		"longitude": "-1.7416134461702",
+		"latitude": "48.211055536173",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256071,
+		"longitude": "-2.0853721",
+		"latitude": "47.6498516",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1387331,
+		"longitude": "-1.6754060954758",
+		"latitude": "48.11192935054",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1251706,
+		"longitude": "-1.754105",
+		"latitude": "48.219363",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1203836,
+		"longitude": "-2.0256033825957",
+		"latitude": "48.647931653067",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1434401,
+		"longitude": "-1.6225515759996",
+		"latitude": "48.114672427",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1379647,
+		"longitude": "-1.943328",
+		"latitude": "48.179645",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1410468,
+		"longitude": "-2.0557272",
+		"latitude": "48.6347536",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1354791,
+		"longitude": "-1.6813814",
+		"latitude": "48.1128377",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1400058,
+		"longitude": "-1.9763046",
+		"latitude": "47.7179314",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1418098,
+		"longitude": "-1.9769985069996",
+		"latitude": "48.681843569",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351650,
+		"longitude": "-1.2165283728347",
+		"latitude": "48.124739257722",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1264062,
+		"longitude": "-2.0561848",
+		"latitude": "48.6343038",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1396700,
+		"longitude": "-2.001438",
+		"latitude": "47.694652",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352066,
+		"longitude": "-2.018482290611",
+		"latitude": "48.638768814877",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351698,
+		"longitude": "-1.8532684",
+		"latitude": "48.6711965",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231331,
+		"longitude": "-2.0564531",
+		"latitude": "48.6336659",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1387586,
+		"longitude": "-1.7087044",
+		"latitude": "48.6064877",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294977,
+		"longitude": "-2.0248389615818",
+		"latitude": "48.648173461582",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266529,
+		"longitude": "-2.0247165",
+		"latitude": "48.6481181",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326519,
+		"longitude": "-1.6073314",
+		"latitude": "48.1159082",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351779,
+		"longitude": "-2.132691",
+		"latitude": "48.619354",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1239305,
+		"longitude": "-1.7742477",
+		"latitude": "48.6020681",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1273033,
+		"longitude": "-1.5110362",
+		"latitude": "48.2132001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335424,
+		"longitude": "-1.6845351335045",
+		"latitude": "48.108014329448",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1224070,
+		"longitude": "-1.4408525481562",
+		"latitude": "47.882586268942",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1279347,
+		"longitude": "-1.7434905",
+		"latitude": "48.1057091",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1386069,
+		"longitude": "-1.7434905",
+		"latitude": "48.1057091",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1332362,
+		"longitude": "-1.6841523",
+		"latitude": "48.1028634",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1376078,
+		"longitude": "-1.9903647886491",
+		"latitude": "47.890749478216",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349358,
+		"longitude": "-1.8548385709996",
+		"latitude": "48.671016734",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1237574,
+		"longitude": "-1.6855125",
+		"latitude": "48.1114586",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271754,
+		"longitude": "-1.669289",
+		"latitude": "48.1114576",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329354,
+		"longitude": "-2.0229852",
+		"latitude": "48.6353511",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1401756,
+		"longitude": "-1.8563144192394",
+		"latitude": "48.670436137111",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1232768,
+		"longitude": "-1.6554489",
+		"latitude": "48.5874197",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1293332,
+		"longitude": "-2.0237429",
+		"latitude": "48.6484011",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1280841,
+		"longitude": "-1.359359",
+		"latitude": "47.9455401",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233998,
+		"longitude": "-1.8534764",
+		"latitude": "48.6712533",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373422,
+		"longitude": "-1.8260570430204",
+		"latitude": "48.610317572855",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1269352,
+		"longitude": "-1.9045675",
+		"latitude": "48.6371002",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1332407,
+		"longitude": "-1.2054872",
+		"latitude": "48.1206741",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1357980,
+		"longitude": "-1.2082696131277",
+		"latitude": "48.354612885086",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1211666,
+		"longitude": "-2.0242957349946",
+		"latitude": "48.650755133235",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261822,
+		"longitude": "-2.0864971",
+		"latitude": "47.6493883",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1259354,
+		"longitude": "-1.1946774",
+		"latitude": "48.3493297",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1210905,
+		"longitude": "-1.2002081071325",
+		"latitude": "48.356169642795",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1383491,
+		"longitude": "-1.675827",
+		"latitude": "48.1118605",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1331311,
+		"longitude": "-1.9911498499754",
+		"latitude": "48.635151927509",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1413139,
+		"longitude": "-2.0118746",
+		"latitude": "48.6531708",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347546,
+		"longitude": "-1.683146",
+		"latitude": "48.153561",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1416144,
+		"longitude": "-1.945772",
+		"latitude": "48.296455",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1391552,
+		"longitude": "-1.986828",
+		"latitude": "48.610756",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1269245,
+		"longitude": "-1.7819266",
+		"latitude": "48.0976547",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1345200,
+		"longitude": "-1.6760039562871",
+		"latitude": "48.11188435054",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1445308,
+		"longitude": "-2.0866127559996",
+		"latitude": "47.649209554",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1322943,
+		"longitude": "-2.0330624",
+		"latitude": "48.6049147",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300890,
+		"longitude": "-2.02412",
+		"latitude": "48.6495002",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350181,
+		"longitude": "-1.8631714",
+		"latitude": "48.630344",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1370242,
+		"longitude": "-2.0232621",
+		"latitude": "48.6500742",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256940,
+		"longitude": "-1.683146",
+		"latitude": "48.153561",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1283937,
+		"longitude": "-1.6098108635813",
+		"latitude": "48.114563658607",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1336752,
+		"longitude": "-1.6098108635813",
+		"latitude": "48.114563658607",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297590,
+		"longitude": "-1.9957813",
+		"latitude": "48.622483",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271125,
+		"longitude": "-1.6315042",
+		"latitude": "48.0932583",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1488219,
+		"longitude": "-1.8623032857349",
+		"latitude": "48.668250478216",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1258210,
+		"longitude": "-2.0227829",
+		"latitude": "48.6354297",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1420457,
+		"longitude": "-1.6811765",
+		"latitude": "48.1128627",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1218511,
+		"longitude": "-2.053323",
+		"latitude": "48.63514954732",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1278720,
+		"longitude": "-1.3902834",
+		"latitude": "48.1055335",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1274841,
+		"longitude": "-2.024793",
+		"latitude": "48.648717",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1521511,
+		"longitude": "-1.673414100179",
+		"latitude": "48.107616045242",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1259552,
+		"longitude": "-1.8473249",
+		"latitude": "48.0731127",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261314,
+		"longitude": "-1.6758464562871",
+		"latitude": "48.11190235054",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1395578,
+		"longitude": "-2.0578322",
+		"latitude": "48.6333123",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338163,
+		"longitude": "-1.858421",
+		"latitude": "48.069258",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398579,
+		"longitude": "-2.0237443",
+		"latitude": "48.6494075",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340817,
+		"longitude": "-1.7526887",
+		"latitude": "48.4080625",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350604,
+		"longitude": "-2.0562148",
+		"latitude": "48.6333822",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1348643,
+		"longitude": "-1.4969331",
+		"latitude": "47.9598573",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1277611,
+		"longitude": "-1.7461371268394",
+		"latitude": "48.024880292256",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1323559,
+		"longitude": "-2.0865283864621",
+		"latitude": "47.6493739839",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233196,
+		"longitude": "-1.76201",
+		"latitude": "48.32053",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1394238,
+		"longitude": "-2.0245026",
+		"latitude": "48.6498408",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314033,
+		"longitude": "-2.0232629691846",
+		"latitude": "48.650415715794",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1275655,
+		"longitude": "-1.6757187",
+		"latitude": "48.1118719",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1381799,
+		"longitude": "-1.6126818",
+		"latitude": "48.1083119",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1403496,
+		"longitude": "-1.6852971145118",
+		"latitude": "48.136613012473",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284379,
+		"longitude": "-1.8631714",
+		"latitude": "48.630344",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347583,
+		"longitude": "-1.9504649624639",
+		"latitude": "47.866324993744",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350799,
+		"longitude": "-1.6423577026083",
+		"latitude": "48.182107368861",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1270210,
+		"longitude": "-1.6423461709996",
+		"latitude": "48.182107189",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233629,
+		"longitude": "-1.9915905",
+		"latitude": "47.8908106",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1206389,
+		"longitude": "-1.6431425",
+		"latitude": "48.0936018",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351737,
+		"longitude": "-2.1163957",
+		"latitude": "48.6355026",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1377424,
+		"longitude": "-1.6568463",
+		"latitude": "48.1249347",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286433,
+		"longitude": "-2.0125954067459",
+		"latitude": "48.633745368861",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1224298,
+		"longitude": "-1.8561416",
+		"latitude": "48.6705785",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1268175,
+		"longitude": "-1.21543",
+		"latitude": "48.124746",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349220,
+		"longitude": "-2.0185063",
+		"latitude": "48.6384349",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329139,
+		"longitude": "-1.7534966",
+		"latitude": "48.5504908",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392541,
+		"longitude": "-1.6152477",
+		"latitude": "48.106716",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1381886,
+		"longitude": "-1.792365034422",
+		"latitude": "48.149650667205",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1262923,
+		"longitude": "-1.204626",
+		"latitude": "48.3515609",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349693,
+		"longitude": "-1.9963659",
+		"latitude": "48.6571825",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1391275,
+		"longitude": "-1.8559248681689",
+		"latitude": "48.670626111576",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302298,
+		"longitude": "-2.9326435",
+		"latitude": "48.2020471",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1385639,
+		"longitude": "-1.6803515",
+		"latitude": "48.1130673",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271376,
+		"longitude": "-1.882631",
+		"latitude": "47.8664469",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398987,
+		"longitude": "-1.620882",
+		"latitude": "48.0887376",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1342654,
+		"longitude": "-2.0913278047492",
+		"latitude": "47.64412224785",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1337855,
+		"longitude": "-1.8492646",
+		"latitude": "48.6751734",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1267898,
+		"longitude": "-1.3180647",
+		"latitude": "47.8308234",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1322337,
+		"longitude": "-1.6757387",
+		"latitude": "48.1119921",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1371218,
+		"longitude": "-1.807939",
+		"latitude": "48.081465",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1514315,
+		"longitude": "-1.8214125393989",
+		"latitude": "47.820814026266",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297005,
+		"longitude": "-2.0895686161922",
+		"latitude": "47.64583463587",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286421,
+		"longitude": "-1.2027798",
+		"latitude": "48.3547992",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233586,
+		"longitude": "-1.3571978",
+		"latitude": "48.351683",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1301851,
+		"longitude": "-1.6394453",
+		"latitude": "48.1763831",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392826,
+		"longitude": "-1.7030612",
+		"latitude": "48.0139702",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1407282,
+		"longitude": "-1.7029730424721",
+		"latitude": "48.013940986122",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1315824,
+		"longitude": "-2.0302790285781",
+		"latitude": "47.675085125838",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266935,
+		"longitude": "-2.0560519",
+		"latitude": "48.6344795",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286370,
+		"longitude": "-1.9440564",
+		"latitude": "48.2949146",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314598,
+		"longitude": "-1.6905153",
+		"latitude": "48.1369765",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266929,
+		"longitude": "-1.2160497939996",
+		"latitude": "48.109473843001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1267598,
+		"longitude": "-2.064352",
+		"latitude": "47.6737508",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298615,
+		"longitude": "-1.9953548409996",
+		"latitude": "48.622351128001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300889,
+		"longitude": "-1.9928811",
+		"latitude": "48.6359951",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1212398,
+		"longitude": "-2.1109948",
+		"latitude": "48.6366867",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1229898,
+		"longitude": "-1.749533",
+		"latitude": "48.0277999",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1395767,
+		"longitude": "-1.938317",
+		"latitude": "48.688078",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1239358,
+		"longitude": "-1.2369185",
+		"latitude": "48.1509992",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389774,
+		"longitude": "-1.6037016180968",
+		"latitude": "48.046312623925",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303509,
+		"longitude": "-1.4989158",
+		"latitude": "47.9593399",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303510,
+		"longitude": "-1.5872028",
+		"latitude": "47.9778607",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1413562,
+		"longitude": "-1.2138827",
+		"latitude": "48.1244764",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350200,
+		"longitude": "-1.73437",
+		"latitude": "48.1999815",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397669,
+		"longitude": "-1.1973489",
+		"latitude": "48.065324",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350079,
+		"longitude": "-1.6781518679996",
+		"latitude": "48.113973691",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1265397,
+		"longitude": "-1.8494758",
+		"latitude": "48.6186458",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351680,
+		"longitude": "-2.0474677507646",
+		"latitude": "48.198071766028",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397867,
+		"longitude": "-2.0176911",
+		"latitude": "48.6375518",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349680,
+		"longitude": "-1.2131711",
+		"latitude": "48.1247885",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1272605,
+		"longitude": "-1.9192415",
+		"latitude": "48.1845834",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1278003,
+		"longitude": "-2.1941752",
+		"latitude": "48.1906042",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297931,
+		"longitude": "-1.168625",
+		"latitude": "48.079641",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1270946,
+		"longitude": "-1.1037290354979",
+		"latitude": "48.369799805457",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1536052,
+		"longitude": "-1.4088949999999",
+		"latitude": "48.053685",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1344111,
+		"longitude": "-1.8440506",
+		"latitude": "48.5942065",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1275219,
+		"longitude": "-1.2455131902591",
+		"latitude": "48.289280510964",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398080,
+		"longitude": "-2.0842796",
+		"latitude": "47.65188",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231862,
+		"longitude": "-2.0085691",
+		"latitude": "48.6467255",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1393176,
+		"longitude": "-1.7403751",
+		"latitude": "48.103875",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1415518,
+		"longitude": "-2.0049372",
+		"latitude": "48.6554504",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1384134,
+		"longitude": "-1.6833857164868",
+		"latitude": "48.110581707744",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1293627,
+		"longitude": "-1.6075325",
+		"latitude": "48.1457213",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351148,
+		"longitude": "-1.7073343",
+		"latitude": "48.0424046",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1332939,
+		"longitude": "-1.6418599516708",
+		"latitude": "48.097519952248",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256602,
+		"longitude": "-1.685484",
+		"latitude": "48.1116949",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300039,
+		"longitude": "-2.0562148",
+		"latitude": "48.6333822",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1323718,
+		"longitude": "-1.6765311530671",
+		"latitude": "48.11178859839",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1393119,
+		"longitude": "-2.0242574737723",
+		"latitude": "48.649840208437",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271337,
+		"longitude": "-2.0567872",
+		"latitude": "48.6071196",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1228098,
+		"longitude": "-1.7299005998143",
+		"latitude": "47.7228643961",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1237139,
+		"longitude": "-1.7321059",
+		"latitude": "48.1049669",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271781,
+		"longitude": "-1.70541",
+		"latitude": "48.040056242423",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319220,
+		"longitude": "-1.6080142",
+		"latitude": "48.1458921",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1302299,
+		"longitude": "-1.8563038",
+		"latitude": "48.6705021",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1259644,
+		"longitude": "-1.5228292",
+		"latitude": "48.1134994",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350202,
+		"longitude": "-1.6726681",
+		"latitude": "48.1053794",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1310965,
+		"longitude": "-2.130015352213",
+		"latitude": "48.625420609498",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351100,
+		"longitude": "-1.755492",
+		"latitude": "47.9917412",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1385345,
+		"longitude": "-1.681136135582",
+		"latitude": "48.112605817099",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1393703,
+		"longitude": "-1.6827848695539",
+		"latitude": "48.11105764946",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1278760,
+		"longitude": "-2.0687316",
+		"latitude": "48.6358072",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1438506,
+		"longitude": "-1.7124908989996",
+		"latitude": "48.036408628",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266774,
+		"longitude": "-1.760415",
+		"latitude": "48.0244149",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1356448,
+		"longitude": "-1.2033679",
+		"latitude": "48.3548222",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1218565,
+		"longitude": "-1.753407",
+		"latitude": "48.5500467",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1414878,
+		"longitude": "-1.4819296",
+		"latitude": "48.4597814",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1339645,
+		"longitude": "-1.7111851",
+		"latitude": "48.1168424",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326751,
+		"longitude": "-2.0263159",
+		"latitude": "48.6357981",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1305965,
+		"longitude": "-2.0262655",
+		"latitude": "48.6466763",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1459043,
+		"longitude": "-1.7895515939996",
+		"latitude": "48.149442409",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284083,
+		"longitude": "-1.9407559",
+		"latitude": "48.208567",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1381609,
+		"longitude": "-1.9407559",
+		"latitude": "48.208567",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1430809,
+		"longitude": "-1.7657371",
+		"latitude": "48.102876",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1404599,
+		"longitude": "-1.6858702",
+		"latitude": "48.1002332",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1218141,
+		"longitude": "-1.4251060370147",
+		"latitude": "48.328015035223",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1237128,
+		"longitude": "-2.025658110191",
+		"latitude": "48.648386346933",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1354450,
+		"longitude": "-1.1910369",
+		"latitude": "48.1663061",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1260491,
+		"longitude": "-1.1908418463846",
+		"latitude": "48.166258526228",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1263057,
+		"longitude": "-2.0049903491546",
+		"latitude": "48.655532891482",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297873,
+		"longitude": "-2.0264748",
+		"latitude": "48.6462553",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1390784,
+		"longitude": "-1.846006",
+		"latitude": "47.739593",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1272564,
+		"longitude": "-1.5029875",
+		"latitude": "48.0481234",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1204218,
+		"longitude": "-1.204303",
+		"latitude": "48.3524827",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351685,
+		"longitude": "-2.0244004",
+		"latitude": "48.6353154",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1411685,
+		"longitude": "-1.6808894",
+		"latitude": "48.1165028",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233860,
+		"longitude": "-2.026240878989",
+		"latitude": "48.646364510964",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1232653,
+		"longitude": "-1.9750584954832",
+		"latitude": "48.662995853347",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261460,
+		"longitude": "-1.2304634865542",
+		"latitude": "47.941562514571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1268748,
+		"longitude": "-2.0536524",
+		"latitude": "48.6346974",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1261565,
+		"longitude": "-1.6855503949449",
+		"latitude": "48.111664557591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1283428,
+		"longitude": "-2.0243206",
+		"latitude": "48.6477731",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1416564,
+		"longitude": "-2.055881",
+		"latitude": "48.6334451",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340303,
+		"longitude": "-2.1102673",
+		"latitude": "48.6368656",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397752,
+		"longitude": "-1.684486",
+		"latitude": "48.11282",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1356683,
+		"longitude": "-1.6675002187085",
+		"latitude": "48.039399932281",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1487907,
+		"longitude": "-1.503028817791",
+		"latitude": "48.04811935054",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1347856,
+		"longitude": "-1.5734424",
+		"latitude": "48.4275564",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1398903,
+		"longitude": "-1.6609280394137",
+		"latitude": "48.133566083819",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1356423,
+		"longitude": "-2.0082164",
+		"latitude": "48.6308952",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1357020,
+		"longitude": "-1.2090021859599",
+		"latitude": "48.12471361449",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355037,
+		"longitude": "-1.7786017",
+		"latitude": "48.3087389",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1205730,
+		"longitude": "-1.1973628498471",
+		"latitude": "48.350890110191",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1370724,
+		"longitude": "-1.6784905495412",
+		"latitude": "48.082313460471",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338687,
+		"longitude": "-1.5105775",
+		"latitude": "48.2143387",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1387900,
+		"longitude": "-1.9890696",
+		"latitude": "48.6629645",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1413635,
+		"longitude": "-1.6827551",
+		"latitude": "48.1136345",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233335,
+		"longitude": "-1.8803597156651",
+		"latitude": "47.912138482404",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349032,
+		"longitude": "-1.77276",
+		"latitude": "48.146698",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352090,
+		"longitude": "-1.7545133294477",
+		"latitude": "48.550004381903",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1339269,
+		"longitude": "-1.6810119",
+		"latitude": "48.1173779",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1379898,
+		"longitude": "-1.6840844",
+		"latitude": "48.1332946",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353528,
+		"longitude": "-1.4610881",
+		"latitude": "48.376546",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1286902,
+		"longitude": "-1.6188438",
+		"latitude": "48.0884488",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1375414,
+		"longitude": "-1.7559735",
+		"latitude": "48.5495007",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219604,
+		"longitude": "-2.018086",
+		"latitude": "48.6519329",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1234154,
+		"longitude": "-2.0542799999999",
+		"latitude": "48.6356",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257134,
+		"longitude": "-1.7576002",
+		"latitude": "48.1182028",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1328942,
+		"longitude": "-1.6732467038491",
+		"latitude": "48.107049694703",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1258119,
+		"longitude": "-1.8080491",
+		"latitude": "48.2968927",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1217405,
+		"longitude": "-2.0567901",
+		"latitude": "48.6371646",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392236,
+		"longitude": "-1.8614546297536",
+		"latitude": "48.668566002222",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397530,
+		"longitude": "-1.6827082",
+		"latitude": "48.1085378",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257524,
+		"longitude": "-1.21543",
+		"latitude": "48.124746",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296833,
+		"longitude": "-1.8537045",
+		"latitude": "48.6712466",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1434141,
+		"longitude": "-1.6924878769996",
+		"latitude": "48.159794852",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1344963,
+		"longitude": "-2.0560519",
+		"latitude": "48.6344795",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1533237,
+		"longitude": "-1.5224745796641",
+		"latitude": "48.113070884529",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1350546,
+		"longitude": "-1.8459739221536",
+		"latitude": "48.073969969473",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1252401,
+		"longitude": "-1.252315",
+		"latitude": "48.414828",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1433192,
+		"longitude": "-1.2098331139996",
+		"latitude": "48.123245025",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1374746,
+		"longitude": "-1.405353",
+		"latitude": "48.109406",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1225056,
+		"longitude": "-1.6828453",
+		"latitude": "48.1135113",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1299669,
+		"longitude": "-2.0675977",
+		"latitude": "48.6359716",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1263720,
+		"longitude": "-1.5057973601189",
+		"latitude": "48.214190252294",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1390148,
+		"longitude": "-1.7414041",
+		"latitude": "48.1055546",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1538411,
+		"longitude": "-1.1315375990825",
+		"latitude": "48.482954612817",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257174,
+		"longitude": "-2.0231638",
+		"latitude": "48.6502506",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1341693,
+		"longitude": "-1.5809568",
+		"latitude": "48.0400717",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1225040,
+		"longitude": "-1.6842003",
+		"latitude": "48.1023824",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1307778,
+		"longitude": "-1.7288719571238",
+		"latitude": "48.417248242022",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1254896,
+		"longitude": "-1.851322",
+		"latitude": "48.071456",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1288380,
+		"longitude": "-1.5074477",
+		"latitude": "48.2139081",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1378253,
+		"longitude": "-1.8512713338912",
+		"latitude": "48.071398421317",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231040,
+		"longitude": "-1.6578412811472",
+		"latitude": "48.124493811818",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1462612,
+		"longitude": "-1.6802135568988",
+		"latitude": "48.109588323619",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1331842,
+		"longitude": "-1.9956291",
+		"latitude": "48.6245401",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389991,
+		"longitude": "-1.7476199999999",
+		"latitude": "48.09466",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1287824,
+		"longitude": "-1.5670651",
+		"latitude": "48.4842898",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338273,
+		"longitude": "-1.914355",
+		"latitude": "48.52923",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353643,
+		"longitude": "-1.7559735",
+		"latitude": "48.5495007",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1223072,
+		"longitude": "-1.854909130042",
+		"latitude": "48.670983920913",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1314131,
+		"longitude": "-2.1106388",
+		"latitude": "48.6369462",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1501745,
+		"longitude": "-2.11055780322",
+		"latitude": "48.636920682209",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1423154,
+		"longitude": "-1.5006511",
+		"latitude": "48.2249594",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1229763,
+		"longitude": "-1.7459783119626",
+		"latitude": "48.023770892867",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1218760,
+		"longitude": "-2.0248085",
+		"latitude": "48.6488058",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1388282,
+		"longitude": "-2.1111953",
+		"latitude": "48.6366584",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1216711,
+		"longitude": "-1.2335382",
+		"latitude": "47.9422711",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1357735,
+		"longitude": "-1.6815585",
+		"latitude": "48.1136207",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1254664,
+		"longitude": "-1.2181013",
+		"latitude": "48.1302704",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1277914,
+		"longitude": "-2.0235706",
+		"latitude": "48.6495996",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335531,
+		"longitude": "-1.207188",
+		"latitude": "48.1245268",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1405859,
+		"longitude": "-2.1079169",
+		"latitude": "48.6362786",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1358034,
+		"longitude": "-1.2011387638063",
+		"latitude": "48.123866419932",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1293113,
+		"longitude": "-1.245251",
+		"latitude": "48.272635",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1349765,
+		"longitude": "-1.6579686",
+		"latitude": "48.5887366",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1391543,
+		"longitude": "-1.8529323",
+		"latitude": "48.6711282",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1210806,
+		"longitude": "-2.174058",
+		"latitude": "48.019561",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1331895,
+		"longitude": "-1.7536747",
+		"latitude": "48.5505376",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1385758,
+		"longitude": "-2.1076221",
+		"latitude": "48.633714",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257190,
+		"longitude": "-1.9743979",
+		"latitude": "48.6005879",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1229722,
+		"longitude": "-1.6570324",
+		"latitude": "48.5864399",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319777,
+		"longitude": "-1.6993475",
+		"latitude": "48.0413097",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373417,
+		"longitude": "-2.0587755",
+		"latitude": "48.5802143",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338391,
+		"longitude": "-1.7485292",
+		"latitude": "48.5464643",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1250660,
+		"longitude": "-2.1584719643372",
+		"latitude": "48.127145731058",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1346060,
+		"longitude": "-1.6368839475446",
+		"latitude": "48.114017434359",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1393064,
+		"longitude": "-1.9306790929996",
+		"latitude": "48.559951418",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1406246,
+		"longitude": "-1.1887941",
+		"latitude": "48.1168498",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1351161,
+		"longitude": "-1.548324",
+		"latitude": "48.568117",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1227905,
+		"longitude": "-2.1416622",
+		"latitude": "48.6275747",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1401923,
+		"longitude": "-2.0577665",
+		"latitude": "48.6340047",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397525,
+		"longitude": "-2.0577915",
+		"latitude": "48.6339891",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397643,
+		"longitude": "-2.0677679",
+		"latitude": "48.6358468",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1376415,
+		"longitude": "-1.545191",
+		"latitude": "48.569846",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1265322,
+		"longitude": "-1.817087",
+		"latitude": "48.1254691",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300581,
+		"longitude": "-1.2039122",
+		"latitude": "48.3534565",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1371875,
+		"longitude": "-2.172861",
+		"latitude": "48.177103",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266526,
+		"longitude": "-1.2073891",
+		"latitude": "48.124452",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1309346,
+		"longitude": "-1.6929641580588",
+		"latitude": "48.096206057447",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1253089,
+		"longitude": "-2.0863369",
+		"latitude": "47.6488765",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1233551,
+		"longitude": "-2.0116271",
+		"latitude": "48.6531911",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256082,
+		"longitude": "-1.4298814",
+		"latitude": "47.9195035",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1401644,
+		"longitude": "-1.8543677164868",
+		"latitude": "48.671129336113",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1418135,
+		"longitude": "-1.6524609",
+		"latitude": "48.0198338",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1251974,
+		"longitude": "-2.0209468314921",
+		"latitude": "48.649816199544",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1406237,
+		"longitude": "-1.6776354",
+		"latitude": "48.1170219",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1210807,
+		"longitude": "-1.6777339",
+		"latitude": "48.1095263",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335581,
+		"longitude": "-1.681573",
+		"latitude": "47.843133",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1264323,
+		"longitude": "-1.8996402310578",
+		"latitude": "48.604874427145",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355031,
+		"longitude": "-1.9102851",
+		"latitude": "48.6745886",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1262404,
+		"longitude": "-1.6809787",
+		"latitude": "48.1109343",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389201,
+		"longitude": "-1.6810423112701",
+		"latitude": "48.110946463789",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1354395,
+		"longitude": "-1.680777",
+		"latitude": "48.1161311",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1453231,
+		"longitude": "-1.4983655359996",
+		"latitude": "47.960021498",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1387201,
+		"longitude": "-1.6861148",
+		"latitude": "48.1334895",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297559,
+		"longitude": "-2.0050675",
+		"latitude": "48.6555977",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1217895,
+		"longitude": "-2.137486",
+		"latitude": "47.994106",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296000,
+		"longitude": "-1.858421",
+		"latitude": "48.069258",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1273353,
+		"longitude": "-1.6973381",
+		"latitude": "48.1541691",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1507090,
+		"longitude": "-1.6769147164868",
+		"latitude": "48.108547707744",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1250594,
+		"longitude": "-1.8793094",
+		"latitude": "48.3782597",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1251292,
+		"longitude": "-2.07174",
+		"latitude": "47.705444",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1332666,
+		"longitude": "-1.6983292759184",
+		"latitude": "48.151863681201",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1235805,
+		"longitude": "-1.7553723",
+		"latitude": "48.0628133",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1294950,
+		"longitude": "-1.6855413949449",
+		"latitude": "48.111781557591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1341453,
+		"longitude": "-1.2013544",
+		"latitude": "48.3550897",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296853,
+		"longitude": "-1.5355493370938",
+		"latitude": "48.132029169023",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1404335,
+		"longitude": "-1.6858987",
+		"latitude": "48.1385614",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1339214,
+		"longitude": "-1.731028",
+		"latitude": "48.202643",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353894,
+		"longitude": "-1.6206100418109",
+		"latitude": "48.060478906027",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1283196,
+		"longitude": "-2.0265182864274",
+		"latitude": "48.648973368861",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1346781,
+		"longitude": "-1.705942",
+		"latitude": "48.0889876",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271297,
+		"longitude": "-1.6767308",
+		"latitude": "48.1117741",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1211825,
+		"longitude": "-2.0556153",
+		"latitude": "48.6274204",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1217102,
+		"longitude": "-1.680894",
+		"latitude": "48.1109111",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231149,
+		"longitude": "-1.1822393",
+		"latitude": "48.3456358",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231150,
+		"longitude": "-1.21543",
+		"latitude": "48.124746",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231170,
+		"longitude": "-1.6768353",
+		"latitude": "48.0839735",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1231767,
+		"longitude": "-2.0844099999999",
+		"latitude": "47.67815",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1234071,
+		"longitude": "-1.6806500794902",
+		"latitude": "48.103870022217",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1234634,
+		"longitude": "-1.7084447",
+		"latitude": "48.1158994",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1239495,
+		"longitude": "-1.6523207",
+		"latitude": "48.127191",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1252821,
+		"longitude": "-1.8806800341336",
+		"latitude": "48.059115904524",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256298,
+		"longitude": "-2.059156",
+		"latitude": "48.57962",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1333078,
+		"longitude": "-1.972348",
+		"latitude": "48.5990279",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1335018,
+		"longitude": "-1.460064",
+		"latitude": "48.1028779",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1339219,
+		"longitude": "-1.7681536",
+		"latitude": "48.1411656",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1342296,
+		"longitude": "-1.7402771",
+		"latitude": "48.0508986",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1348121,
+		"longitude": "-1.49198",
+		"latitude": "48.22126",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1415973,
+		"longitude": "-1.6173128",
+		"latitude": "48.1140716",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1329102,
+		"longitude": "-1.9192531",
+		"latitude": "48.1761233",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1258613,
+		"longitude": "-1.6924033",
+		"latitude": "47.8330495",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271643,
+		"longitude": "-1.591377",
+		"latitude": "47.991027",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1413757,
+		"longitude": "-1.681516",
+		"latitude": "48.1094174",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1255373,
+		"longitude": "-1.8233012",
+		"latitude": "47.8225037",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1316855,
+		"longitude": "-1.6110249",
+		"latitude": "48.1139591",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1313665,
+		"longitude": "-1.6973926",
+		"latitude": "48.2154273",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298076,
+		"longitude": "-1.6768578090484",
+		"latitude": "48.108599266721",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1271633,
+		"longitude": "-1.9559993",
+		"latitude": "48.1355939",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1257000,
+		"longitude": "-1.8566593",
+		"latitude": "48.6703368",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297139,
+		"longitude": "-1.6462073089042",
+		"latitude": "48.128770897022",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1236642,
+		"longitude": "-2.0872118510878",
+		"latitude": "47.647424818483",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1268549,
+		"longitude": "-1.3658671",
+		"latitude": "48.4104927",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1448701,
+		"longitude": "-1.7130004059996",
+		"latitude": "48.102367362001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450355,
+		"longitude": "-1.6906805349996",
+		"latitude": "48.138371628",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1453516,
+		"longitude": "-1.6069969369996",
+		"latitude": "48.113265961",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338665,
+		"longitude": "-1.675088",
+		"latitude": "48.105674",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1399299,
+		"longitude": "-1.6897317",
+		"latitude": "48.0955514",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1330375,
+		"longitude": "-1.6930599366672",
+		"latitude": "48.136139961626",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1384821,
+		"longitude": "-1.6983292759184",
+		"latitude": "48.151863681201",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1508273,
+		"longitude": "-1.8296446007559",
+		"latitude": "48.154480658895",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1452304,
+		"longitude": "-1.6714282509996",
+		"latitude": "48.10491251",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319595,
+		"longitude": "-1.2125019970858",
+		"latitude": "48.124972529286",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1266413,
+		"longitude": "-2.083601",
+		"latitude": "47.6523847",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303557,
+		"longitude": "-1.6845610819996",
+		"latitude": "48.10926993",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1392463,
+		"longitude": "-1.9903561262685",
+		"latitude": "48.623353422151",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1379705,
+		"longitude": "-1.2064212",
+		"latitude": "48.3548436",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1262049,
+		"longitude": "-1.2085074",
+		"latitude": "48.3547567",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1206781,
+		"longitude": "-2.1010347",
+		"latitude": "48.0018985",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1340719,
+		"longitude": "-1.8161091",
+		"latitude": "48.3016725",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1219335,
+		"longitude": "-1.6105089",
+		"latitude": "48.0602799",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1300258,
+		"longitude": "-2.0569135407991",
+		"latitude": "48.609388233258",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303948,
+		"longitude": "-1.6568274343586",
+		"latitude": "48.124983855675",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389842,
+		"longitude": "-2.0848928",
+		"latitude": "47.6493586",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1389459,
+		"longitude": "-1.6811164",
+		"latitude": "47.8419919",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1504747,
+		"longitude": "-1.6261458003058",
+		"latitude": "48.061379682209",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1297099,
+		"longitude": "-1.6760945",
+		"latitude": "48.1083872",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1385006,
+		"longitude": "-1.6760945",
+		"latitude": "48.1083872",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1417306,
+		"longitude": "-1.6333364465292",
+		"latitude": "48.084343575985",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1328140,
+		"longitude": "-1.6804306",
+		"latitude": "48.1073947",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1289343,
+		"longitude": "-1.673148719401",
+		"latitude": "48.091969791563",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1338029,
+		"longitude": "-1.708902",
+		"latitude": "48.12144745268",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1373158,
+		"longitude": "-1.6787431614057",
+		"latitude": "48.10513759839",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1380876,
+		"longitude": "-1.6795189",
+		"latitude": "48.1144724",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1256740,
+		"longitude": "-2.02412",
+		"latitude": "48.6495002",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1353909,
+		"longitude": "-1.9412118",
+		"latitude": "48.6675282",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1388423,
+		"longitude": "-1.365536",
+		"latitude": "48.411428",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1402272,
+		"longitude": "-1.6023008",
+		"latitude": "48.114537",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1355631,
+		"longitude": "-2.0245543",
+		"latitude": "48.6487771",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1237170,
+		"longitude": "-2.0676726",
+		"latitude": "48.6363365",
+		"picto_activite_marqueur": "http:\/\/guideinterne.ancv.com\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1282958,
+		"longitude": "-2.067732",
+		"latitude": "48.636323434359",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1330716,
+		"longitude": "-1.639985",
+		"latitude": "48.1749442",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1397776,
+		"longitude": "-2.0238353170985",
+		"latitude": "48.649252924231",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1249999,
+		"longitude": "-1.9815769",
+		"latitude": "48.6319149",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1470059,
+		"longitude": "-1.6070632857349",
+		"latitude": "48.115623363033",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1224361,
+		"longitude": "-2.0238368098851",
+		"latitude": "48.649260865947",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1384135,
+		"longitude": "-1.6765454",
+		"latitude": "48.11181",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1505913,
+		"longitude": "-1.7646439688611",
+		"latitude": "48.140518691063",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1343400,
+		"longitude": "-1.7296880601684",
+		"latitude": "48.201594311205",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1431181,
+		"longitude": "-1.2389969",
+		"latitude": "48.3570097",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1499281,
+		"longitude": "-1.9840728409603",
+		"latitude": "48.648353867332",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450777,
+		"longitude": "-2.1334899209996",
+		"latitude": "48.619509847",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1450064,
+		"longitude": "-1.6804016129996",
+		"latitude": "48.114101207",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1446354,
+		"longitude": "-2.0238327499996",
+		"latitude": "48.649256794001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1502305,
+		"longitude": "-2.034406121011",
+		"latitude": "48.128790572855",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1436724,
+		"longitude": "-2.0265375769996",
+		"latitude": "48.646868389",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1313100,
+		"longitude": "-1.6801741",
+		"latitude": "48.1141163",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1444037,
+		"longitude": "-2.0231877899996",
+		"latitude": "48.650232492",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1452237,
+		"longitude": "-1.8500795649996",
+		"latitude": "48.700818291",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1532500,
+		"longitude": "-1.7033496232327",
+		"latitude": "48.041608075769",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1442467,
+		"longitude": "-1.1863016039996",
+		"latitude": "48.114122927",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1535326,
+		"longitude": "-1.6941747726931",
+		"latitude": "48.087997323619",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1475480,
+		"longitude": "-1.7166469173302",
+		"latitude": "48.167031688571",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1442036,
+		"longitude": "-1.6325511969996",
+		"latitude": "48.093506790001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1500465,
+		"longitude": "-1.2276151455653",
+		"latitude": "47.940919470166",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1267787,
+		"longitude": "-2.0567901",
+		"latitude": "48.6371646",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1352391,
+		"longitude": "-2.03436",
+		"latitude": "48.606702",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1251551,
+		"longitude": "-2.073233",
+		"latitude": "48.619311",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1234845,
+		"longitude": "-2.0542799999999",
+		"latitude": "48.6356",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1344322,
+		"longitude": "-1.6772611",
+		"latitude": "48.1132361",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1295815,
+		"longitude": "-1.8531208",
+		"latitude": "48.6712134",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450356,
+		"longitude": "-1.6790589229996",
+		"latitude": "48.107641564",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1299465,
+		"longitude": "-2.0229852",
+		"latitude": "48.6353511",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1459798,
+		"longitude": "-1.6842589749996",
+		"latitude": "48.102661576",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1461887,
+		"longitude": "-1.6570023819996",
+		"latitude": "48.124955984001",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1447260,
+		"longitude": "-2.0084985419996",
+		"latitude": "48.643318177",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1461456,
+		"longitude": "-1.6195433569996",
+		"latitude": "48.08853708",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1324695,
+		"longitude": "-2.0584629",
+		"latitude": "48.5795954",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1321270,
+		"longitude": "-2.0839598906457",
+		"latitude": "47.653582945323",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1296794,
+		"longitude": "-1.6795189",
+		"latitude": "48.1144724",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1298521,
+		"longitude": "-1.6785453",
+		"latitude": "48.1105421",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1311365,
+		"longitude": "-1.6806144",
+		"latitude": "48.1072986",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1517236,
+		"longitude": "-1.757869522621",
+		"latitude": "48.02276264141",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1451959,
+		"longitude": "-1.7510053679996",
+		"latitude": "48.409193223",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1501153,
+		"longitude": "-1.6825999602175",
+		"latitude": "48.082519234565",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1303551,
+		"longitude": "-1.2064212",
+		"latitude": "48.3548436",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1309139,
+		"longitude": "-1.6768353",
+		"latitude": "48.0839735",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1319040,
+		"longitude": "-2.0529045",
+		"latitude": "48.6350248",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1276262,
+		"longitude": "-2.2217432",
+		"latitude": "48.1321682",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1468407,
+		"longitude": "-1.6786628381903",
+		"latitude": "48.111006478216",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1326750,
+		"longitude": "-1.6336457",
+		"latitude": "48.1305944",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1327683,
+		"longitude": "-1.3688928753823",
+		"latitude": "48.407240849847",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1321547,
+		"longitude": "-1.8543677164868",
+		"latitude": "48.671129336113",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1284408,
+		"longitude": "-1.8529459",
+		"latitude": "48.6712454",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1277771,
+		"longitude": "-1.7510861",
+		"latitude": "48.4092348",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1282464,
+		"longitude": "-1.7543273258411",
+		"latitude": "48.549757368861",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1499194,
+		"longitude": "-1.6801104503145",
+		"latitude": "48.108726785735",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1506167,
+		"longitude": "-1.7162149999999",
+		"latitude": "48.32156",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1324213,
+		"longitude": "-1.7068619",
+		"latitude": "48.1528112",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1450853,
+		"longitude": "-1.7077173729996",
+		"latitude": "48.152949354",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1511256,
+		"longitude": "-2.0725626785661",
+		"latitude": "48.62383316107",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	},
+	{
+		"nid": 1310615,
+		"longitude": "-2.0493382173546",
+		"latitude": "48.612416060877",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_A.png"
+	},
+	{
+		"nid": 1454643,
+		"longitude": "-1.6194031589995",
+		"latitude": "48.134287602",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1474086,
+		"longitude": "-2.0719608014941",
+		"latitude": "47.666685301494",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1285489,
+		"longitude": "-1.6425698515205",
+		"latitude": "48.129789121299",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1521002,
+		"longitude": "-1.2012672172949",
+		"latitude": "48.354712911449",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_D.png"
+	},
+	{
+		"nid": 1375679,
+		"longitude": "-1.4791127",
+		"latitude": "48.4628134",
+		"picto_activite_marqueur": "http:\/\/default\/sites\/default\/files\/picto\/marqueur_CV_C.png"
+	}
+]
